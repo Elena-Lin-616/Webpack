@@ -1,0 +1,10 @@
+.btn {
+  background-color: aqua;
+  font-size: 18px;
+}
+.txt {
+  color: blueviolet;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  text-decoration: dashed;
+}
